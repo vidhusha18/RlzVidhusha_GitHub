@@ -5,7 +5,7 @@ class Myclass2{
      System.out.println("hello earth");
      System.out.println("hello venus");
      System.out.println("hello mercury");
-
+	 System.out.println("hello pluto");
     
   }
 }
